@@ -4,8 +4,8 @@
 
 Solve 3 CTF challenges and make a report on it.
 
-<summary>Web Exploitation</summary>
-1) Logon
-2) Get a Head
-3) Cookies
+<summary> <b> Web Exploitation </b></summary>
+1) Logon <br>
+2) Get a Head <br>
+3) Cookies <br>
 
